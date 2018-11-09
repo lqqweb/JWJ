@@ -1,0 +1,143 @@
+/* 中间内容 */
+.middleImg{
+	width:100%;
+}
+.middleImg img{
+	width:100%;
+	height:228px;
+}
+.middleContent{
+	width:880px;
+	margin:0 auto;
+	/* border:1px solid red; */
+}
+.location{
+	color:#a0a0a0;
+}
+.location a{
+	color:#a0a0a0;
+}
+/* 热门推荐 */
+.courseType{
+	border-bottom: 2px solid #23bcb3;
+    width: 65px;
+    margin:20px 0 25px 0;
+    font-size:16px;
+}
+.hotCourseList{
+   padding-left: 25px;
+    background: #ffffff;
+}
+.hotCourseItem{
+	width:200px;
+	/* border:1px solid red; */
+	display:inline-block;
+	margin-right:24px;
+}
+.hotCourseItem{
+	_zoom:1;
+	*display:inline;
+}
+.hotCourseImg{
+	width: 200px;
+    height: 115px;
+    border:0 none;
+}
+.courseHotTitle{
+	font-size:14px;
+	width: 200px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.courseTitle{
+	font-size: 14px;
+    width: 170px;
+    height: 25px;
+    /* border: 1px solid red; */
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.hotCourseDetail,.specailCourseDetail{
+	
+}
+.hotCourseSee{
+	color:red;
+	font-size:12px;
+	display:inline-block;
+	width:120px;
+}
+.hotCourseSee{
+	_zoom:1;
+	*display:inline;
+}
+.seeNum{
+	font-size:13px;
+	transform: scale(0.90);
+	display:inline-block;
+}
+.seeNum{
+	_zoom:1;
+	*display:inline;
+}
+.hotCourseBigImg{
+	width:170px;
+	height:190px;
+	vertical-align:top;
+}
+
+/* 专题课程 */
+.specialCourseType{
+	border-bottom: 2px solid #23bcb3;
+    width: 65px;
+    margin:20px 0 0 0;
+    font-size:16px;
+}
+.specialCourseList{
+
+    margin-bottom:25px;
+}
+.specailCourseItem{
+	width:170px;
+	margin-bottom:30px;
+	display:inline-block;
+	margin-right:2px;
+	background:#ffffff;
+}
+.specailCourseItem{
+	_zoom:1;
+	*display:inline;
+}
+.specialCourseImg{
+	width: 170px;
+    height: 121px;
+    border:0 none;
+}
+.specialCourseBigImg{
+	width:170px;
+	height:190px;
+	margin-bottom:30px;
+	vertical-align:bottom;
+}
+.coursePrice{
+	color:red;
+	font-size:15px;
+	display:inline-block;
+	width:80px;
+}
+.coursePrice{
+		_zoom:1;
+	*display:inline;
+}
+.courseFree{
+	color:#72d9c5;
+	font-size:15px;
+	display:inline-block;
+	width:80px;
+}
+.courseFree{
+		_zoom:1;
+	*display:inline;
+}
+

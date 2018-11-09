@@ -1,0 +1,163 @@
+/* 中间内容 */
+.middleImg{
+	width:100%;
+}
+.middleImg img{
+	width:100%;
+	height:228px;
+}
+.middleContent{
+	width:880px;
+	margin:0 auto;
+	/* border:1px solid red; */
+}
+.location{
+	color:#a0a0a0;
+}
+.location a{
+	color:#a0a0a0;
+}
+/* 通信项目管理教材 */
+.communicate{
+	margin-top:70px;
+}
+.communicate img{
+	width:285px;
+	height:280px;
+	display:inline-block;
+	margin-right:40px;
+}
+.communicate img{
+	_zoom:1;
+	*display:inline;
+}
+.communicateIntroduce{
+	width:550px;
+	display:inline-block;
+}
+.communicateIntroduce{
+	_zoom:1;
+	*display:inline;
+}
+.communicateTitle,.constructorTitle,.js_moveTitle{
+	display:inline-block;
+	border-bottom: 1px solid #e6e6e6;
+    padding-bottom: 10px;
+}
+.communicateTitle,.constructorTitle,.js_moveTitle{
+	_zoom:1;
+	*display:inline;
+}
+.bookName{
+	font-size:25px;
+	display:inline-block;
+	width:350px;
+}
+.bookName{
+	_zoom:1;
+	*display:inline;
+}
+.onlineBuy{
+	color:#66c195 !important;
+    border: 1px solid;
+    padding: 0 20px;
+    font-size: 14px;
+    display:inline-block;
+
+}
+.onlineBuy{
+	_zoom:1;
+	*display:inline;
+}
+.bookInfo{
+	font-size:14px;
+	margin-top: 15px;
+}
+/* 一级建造师教材 */
+.constructor{
+	margin-top:100px;
+}
+.constructor img{
+	width:400px;
+	height:270px;
+	display:inline-block;
+}
+.consturctor img{
+	_zoom:1;
+	*display:inline;
+}
+.constructorIntroduce{
+	width:456px;
+	display:inline-block;
+	margin-right:19px;
+}
+.constructorIntroduce{
+	_zoom:1;
+	*display:inline;
+}
+/* 二级建造师教材 */
+.AssociateConstructor{
+	margin-top:110px;
+}
+.AssociateConstructor img{
+	width:375px;
+	height:290px;
+	display:inline-block;
+	margin-right:40px;
+}
+.AssociateConstructor img{
+	_zoom:1;
+	*display:inline;
+}
+.AssociateConstructorIntroduce{
+	width:456px;
+	display:inline-block;
+}
+.AssociateConstructorIntroduce{
+	_zoom:1;
+	*display:inline;
+}
+/* 江苏移动全业务技能培训教材 */
+.js_move{
+	text-align:center;
+	margin-top:100px;
+}
+.js_moveTitle .bookName{
+	width:770px;
+	text-align:left;
+}
+
+.js_move img{
+	height:335px;
+	width:735px;
+}
+.js_moveIntroduce{
+	_zoom:1;
+	*display:inline;
+}
+.js_moveItem{
+	width:260px;
+	/* border:1px solid red; */
+	display:inline-block;
+	margin-bottom:70px;
+	vertical-align:top;
+}
+.js_moveItem{
+_zoom:1;
+	*display:inline;
+}
+.borderLine{
+	padding:0 10px;
+	border-right:1px dashed #e6e6e6;
+	border-left:1px dashed #e6e6e6;
+}
+.js_moveName{
+	color:#66c195;
+	font-size:20px;
+	margin-bottom: 10px;
+}
+.js_moveContent{
+	font-size:14px;
+	margin:0 15px;
+	text-align:left;
+}

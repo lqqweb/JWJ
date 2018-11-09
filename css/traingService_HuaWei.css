@@ -1,0 +1,175 @@
+/* 中间内容 */
+.middleImg{
+	width:100%;
+}
+.middleImg img{
+	width:100%;
+	height:228px;
+}
+.middleContent{
+	width:880px;
+	margin:0 auto;
+	/* border:1px solid red; */
+}
+.loaction{
+	color:#a0a0a0;
+	/* margin-bottom: 40px; */
+}
+.loaction a{
+	color:#a0a0a0;
+}
+/* 华为培训类认证 */
+
+
+.traingAttestation{
+	width:100%;
+	height:340px;
+}
+.traingAttestation img{
+	width:100%;
+	height:340px;
+}
+
+
+.face-to-face{
+	width: 300px;
+    height: 280px;
+    display:inline-block;
+}
+.face-to-face{
+	_zoom:1;
+	*display:inline;
+}
+.attestationContent{
+	width:510px;
+	display:inline-block;
+	margin-left:60px;
+}
+.attestationContent{
+	_zoom:1;
+	*display:inline;
+}
+.attestationTitle{
+	font-size:31px;
+}
+.colorTitle{
+	color:#6b6db8;
+}
+.attestationIntroduce{
+	margin:25px 0;
+}
+.haiwei_Img img{
+	width: 145px;
+    height: 110px;
+}
+/* 华为认证类课程培训 */
+.huawei_course{
+	width:100%;
+	height:305px;
+
+}
+.huawei_course img{
+	width:100%;
+	height:305px;
+	z-index:-1;
+
+}
+.courseImg{
+	position:relative;
+	width:100%;
+	z-index:-1;
+}
+.courseImg img{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:305px;
+	z-index:-1;
+}
+.huiweiCourseIntroduce{
+	width:576px;
+	margin:0 auto;
+	text-align:center;
+}
+.huaweiCourse{
+	font-size:31px;
+	color:white;
+	padding:50px 0 30px 0;
+}
+.huaweiCourseColor{
+	color:#ffcc00;
+}
+.courseList{
+	color:#ffcc00;
+    margin-bottom:20px;
+	/* border:1px solid red; */
+}
+.courseItem{
+	width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    border: 2px solid #ffcc00;
+    font-size: 12px;
+    text-align: center;
+    line-height: 17px;
+    display:inline-block;
+    margin-right: 50px;
+    margin-left: 65px;
+}
+.courseItem{
+	_zoom:1;
+	*display:inline;
+}
+.courseItem p{
+	margin-top:15px;
+}
+.courseContent{
+	color: white;
+    font-size: 13px;
+    text-align: center;
+}
+/* 课程特点 */
+.courseDetail{
+	width:880px;
+	margin:0 auto;
+	font-size:13px;
+	margin-top:25px;
+}
+.courseInfo{
+	margin-top: 50px;
+	display:inline-block;
+	vertical-align:top;
+}
+.courseInfo{
+	_zoom:1;
+	*display:inline;
+}
+.courseDetailList{
+	margin-bottom:10px;
+}
+.courseTitle,.courseIntroduce{
+	display:inline-block;
+}
+.courseTitle,.courseIntroduce{
+		_zoom:1;
+	*display:inline;
+}
+.courseTitle{
+	color:white;
+	background:#6b6db8;
+	padding: 0 12px;
+    border-radius: 12px;
+}
+.textTop{
+	vertical-align:top;
+}
+.courseDetail img{
+	width:410px;
+	height:380px;
+	display:inline-block;
+}
+.courseDetail img{
+	_zoom:1;
+	*display:inline;
+}

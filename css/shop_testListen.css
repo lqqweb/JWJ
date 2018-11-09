@@ -1,0 +1,125 @@
+/* 中间内容 */
+.middleImg{
+	width:100%;
+}
+.middleImg img{
+	width:100%;
+	height:228px;
+}
+.middleContent{
+	width:880px;
+	margin:0 auto;
+	border:1px solid red;
+}
+/* 第一部分内容 */
+.contentItem1{
+	display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+    margin-top:50px;
+}
+.contentImg img{
+	width: 365px;
+    height: 150px;
+}
+.contentDetail{
+	width:475px;
+	font-size:12px;
+}
+.contentTitle{
+	font-size:25px;
+	color:#5cdca5;
+}
+.contact{
+	border: 1px solid gray;
+    border-radius: 5px;
+    padding: 0px 15px;
+    margin-left: 395px;
+    margin-top: -18px;
+    display: block;
+}
+.audioContent{
+	margin-top:10px;
+}
+/* 第二部分内容 */
+.contentItem2{
+	display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    align-items: center;
+    margin-top:80px;
+}
+.courseNum{
+	width: 200px;
+    border: 1px solid;
+    background: #fe9494;
+    color: white;
+    padding-left: 25px;
+    font-size:13px;
+    margin-top:15px;
+}
+.courseName{
+	font-size:13px;
+	margin:10px 0 0 5px;
+}
+.courseName a{
+	width: 100px;
+   /*  border: 1px solid; */
+    display: inline-block;
+}
+/* 第三部分内容 */
+.contentItem3{
+	display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+    margin-top:80px;
+}
+.ulContent{
+	margin-top: 10px;
+    line-height: 22px;
+}
+.liItems{
+	list-style-type: disc;
+	color:#5cdca5;
+	font-size:17px;
+}
+
+.liTitle{
+	font-size: 14px;
+    color: black;
+}
+.liContent{
+	font-size:12px;
+	color:black;
+}
+/* 第四部分 */
+.fourContent{
+	margin:35px 0 0 50px;
+}
+/* 第五部分 */
+.fiveContent{
+	background:#7bdb9c;
+	color:white;
+	padding: 5px 0;
+    margin: 60px 0 30px 0;
+}
+.ulFive{
+	margin-left: 120px;
+}
+.ulFive li img{
+	width: 75px;
+    height: 75px;
+    vertical-align: bottom;
+}
+.ulFive li{
+	list-style:none;
+	display:inline-block;
+	font-size:12px;
+	margin-right: 20px;
+}
+/* 底部公司信息 */
+.bootom{
+	background:black;
+}

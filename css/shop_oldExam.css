@@ -1,0 +1,78 @@
+/* 中间内容 */
+.middleImg{
+	width:100%;
+}
+.middleImg img{
+	width:100%;
+	height:228px;
+}
+.middleContent{
+	width:880px;
+	margin:0 auto;
+	/* border:1px solid red; */
+}
+.location{
+    padding-bottom: 8px;
+    font-size:14px;
+    color:#a0a0a0;
+}
+.location a{
+	color:#a0a0a0;
+}
+.oldExam{
+	 border: 1px solid #e6e6e6;
+}
+.jump{
+	vertical-align: text-top;
+	border:0 none;
+}
+.oldExamName{
+	display: inline-block;
+    vertical-align: top;
+    margin-left:10px;
+}
+.oldExamName{
+		_zoom:1;
+	*display:inline;
+}
+.oldExamTitle{
+	font-size: 23px;
+   
+    padding: 20px 0 10px 0;
+    margin:0 30px 25px 30px;
+}
+.oldExamList{
+	margin: 0 30px;
+    padding: 20px 0 5px 0;
+    border-bottom: 1px solid #e6e6e6;
+}
+.oldExamImg{
+	width: 20px;
+    height: 20px;
+    margin-left:10px;
+}
+/* 联系方式 */
+.fiveContent{
+	background:#7bdb9c;
+	color:white;
+	padding: 5px 0;
+    margin: 60px 0 30px 0;
+}
+.ulFive{
+	margin-left: 120px;
+}
+.ulFive li img{
+	width: 75px;
+    height: 75px;
+    vertical-align: bottom;
+}
+.ulFive li{
+	list-style:none;
+	display:inline-block;
+	font-size:12px;
+	margin-right: 20px;
+}
+.ulFive li{
+		_zoom:1;
+	*display:inline;
+}

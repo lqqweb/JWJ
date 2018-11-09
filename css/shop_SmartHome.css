@@ -1,0 +1,277 @@
+/* 中间内容 */
+.middleImg{
+	width:100%;
+}
+.middleImg img{
+	width:100%;
+	height:228px;
+}
+.middleContent{
+	width:880px;
+	margin:0 auto;
+	/* border:1px solid red; */
+}
+.location{
+	color:#a0a0a0;
+}
+.location a{
+	color:#a0a0a0;
+}
+/* AP系列 */
+.AP-img{
+	text-align:center;
+}
+.AP-img img{
+	width:280px;
+	height:26px;
+	margin: 20px 0 35px 0;
+}
+.goodsDetail{
+	
+}
+.goodsItem1{
+	width:360px;
+	/* border:1px solid red; */
+	display: inline-block;
+    margin-right: 105px;
+    margin-left: 35px;
+}
+.goodsItem1{
+		_zoom:1;
+	*display:inline;
+}
+.fast-fiap-330p{
+	text-align:center;
+}
+.goodsItem1 img{
+	width:250px;
+	height:250px;
+}
+.goodsName1,.goodsName2{
+	font-size: 20px;
+    color: #66c195;
+    margin:10px 0;
+}
+.goodsName1{
+	text-align:center;
+}
+.goodsName2{
+	margin-left:10px;
+}
+.goodsItem2{
+	width:370px;
+	/* border:1px solid blue; */
+	display:inline-block;
+	vertical-align:top;
+}
+.goodsItem2{
+	_zoom:1;
+	*display:inline;
+}
+.goodsItem2 img{
+	width: 370px;
+    height: 250px;
+}
+.goodsSpecial-1{
+	width: 330px;
+	font-size:14px;
+    border: 1px solid #b6b6b6;
+    border-radius: 15px;
+    padding: 0 15px;
+    margin-bottom: 12px;
+}
+.goodsSpecial-2{
+	width: 285px;
+	font-size:14px;
+    border: 1px solid #b6b6b6;
+    border-radius: 15px;
+    padding: 0 15px;
+    text-align:center;
+    margin-bottom: 12px;
+}
+.goodsInfo{
+	font-size:14px;
+}
+.goodsPrice{
+	margin-top:10px;
+}
+/* 电力猫系列 */
+.tplink{
+	text-align:center;
+}
+.tplink img{
+	width: 300px;
+    height: 28px;
+    margin: 66px 0 10px 0;
+}
+.tplinkIntroduce{
+	
+}
+.tplinkIntroduce img{
+	width:245px;
+	height:230px;
+	display:inline-block;
+	margin-right:30px;
+}
+.tplinkIntroduce img{
+	_zoom:1;
+	*display:inline;
+}
+.tplinkInfo{
+	width:600px;
+	/* border:1px solid red; */
+	display:inline-block;
+}
+.tplinkInfo{
+		_zoom:1;
+	*display:inline;
+}
+.tplinkName{
+	font-size: 20px;
+    color: #66c195;
+    margin:10px 0;
+}
+/* 路由器系列 */
+.routerTitle{
+	text-align:center;
+}
+.routerTitle img{
+	width: 300px;
+    height: 28px;
+    margin: 66px 0 20px 0;
+}
+.routerList{
+
+}
+.smallImg{
+	
+    width: 540px;
+    display:inline-block;
+}
+.smallImg{
+	_zoom:1;
+	*display:inline;
+}
+.routerItem img{
+	width: 260px;
+    height: 174px;
+}
+.routerName{
+	text-align:center;
+	color:#66c195;
+}
+.routerPrice{
+	font-size:14px;
+	text-align:center;
+	border: 1px solid #e6e6e6;
+    width: 90px;
+    border-radius: 15px;
+    display:inline-block;
+}
+.routerItem-big img{
+	width:320px;
+	height:430px;
+}
+.routerItem,.routerItem-big{
+	text-align:center;
+	border: 1px solid #e6e6e6;
+    padding-bottom: 13px;
+    margin-bottom: 9px;
+}
+.routerItem{
+	display:inline-block;
+}
+.routerItem{
+	_zoom:1;
+	*display:inline;
+}
+.bigImg{
+	display:inline-block;
+	vertical-align:top;
+}
+.bigImg{
+	_zoom:1;
+	*display:inline;
+}
+/* 摄像头类 */
+.cameraTitle{
+	text-align:center;
+}
+.cameraTitle img{
+	width: 300px;
+    height: 28px;
+    margin: 50px 0 25px 0;
+}
+.cameraItem_1{
+
+}
+.cameraItem_1 img{
+	width: 470px;
+    height: 380px;
+    display:inline-block;
+    margin-right:40px;
+}
+.cameraItem_1 img{
+	_zoom:1;
+	*display:inline;
+}
+.cameraItem_1 .cameraIntroduce{
+	display:inline-block;
+	vertical-align:top;
+}
+.cameraItem_1 .cameraIntroduce{
+	_zoom:1;
+	*display:inline;
+}
+
+.cameraName{
+	margin-left:0;
+}
+
+.cameraSpecial{
+	background: #66c195;
+    color: white;
+    text-align: center;
+    width: 450px;
+    margin-left: -85px;
+    margin-top: 10px;
+    height: 115px;
+
+}
+.phoneControl{
+	font-size:18px;
+	padding-top: 10px;
+    margin-bottom: 10px;
+}
+.phoneSafe{
+	font-size: 14px;
+    line-height: 20px;
+}
+
+
+.cameraItem_2 .cameraIntroduce{
+	margin-left:45px;
+	display:inline-block;
+	    vertical-align: top;
+    margin-top: 60px;
+}
+ .cameraItem_2 .cameraIntroduce{
+	_zoom:1;
+	*display:inline;
+}
+.cameraItem_2 img{
+	width: 460px;
+    height: 390px;
+    display:inline-block;
+}
+.cameraItem_2 img{
+		_zoom:1;
+	*display:inline;
+}
+.leftLocation{
+	margin-right:85px;
+}
+.cameraList{
+	margin-bottom: 40px;
+}
+
